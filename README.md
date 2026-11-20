@@ -120,7 +120,7 @@ Improved feedback and diagnostics are planned.
 
 ## 👤 Maintainer
 
-Module by [@Stewie23](https://github.com/Stewie23). Contributions and issues welcome.
+Module by [@BenjaminVergien](https://github.com/BenjaminVergien). Contributions and issues welcome.
 
 ---
 
